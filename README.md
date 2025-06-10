@@ -36,9 +36,7 @@ Oyun başladığında, küçük bir çiçekçi dükkanı ile işe koyulacaksın�
 🛠️ Geliştirme Ortamı
 Dil: Python
 
-🤝 Katkıda Bulunma
-
-Projeyi daha da geliştirmek isterseniz katkılarınızı memnuniyetle karşılarız! Lütfen bir "issue" açarak veya bir "pull request" göndererek bize ulaşın.
+🤝 Katkıda Bulunma:Projeyi daha da geliştirmek isterseniz katkılarınızı memnuniyetle karşılarız! Lütfen bir "issue" açarak veya bir "pull request" göndererek bize ulaşın.
 
 
 
