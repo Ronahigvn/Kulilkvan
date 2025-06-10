@@ -12,7 +12,7 @@ Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip
 Depoyu Klonlayın:
 Bash
 
-git clone https://github.com/Ronahigvn/kulîlkvan 
+git clone https://github.com/Ronahigvn/kulilkvan 
 Proje Dizinine Girin:
 Bash
 
