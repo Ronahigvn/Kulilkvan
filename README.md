@@ -24,16 +24,16 @@ Bash
 # Örnek: Python için
 pip install -r requirements.txt
 
-# Örnek: JavaScript için
+Örnek: JavaScript için
 npm install
 Uygulamayı Çalıştırın:
 Uygulamayı başlatmak için kullanılan komutu belirtin.
 Bash
 
-# Örnek: Python için
+Örnek: Python için
 python main.py
 
-# Örnek: JavaScript için
+Örnek: JavaScript için
 npm start
 🎮 Oynanış
 Oyun başladığında, küçük bir çiçekçi dükkanı ile işe koyulacaksınız. İlk çiçeklerinizi ekmek, onları sulamak ve büyütmek için talimatları takip edin. Müşteriler geldikçe siparişlerini karşılayın ve para kazanın. Kazandığınız parayı yeni tohumlar, daha iyi ekipmanlar ve dükkanınızı büyütmek için kullanın.
