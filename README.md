@@ -6,6 +6,7 @@ Bu proje, oyuncuların kendi çiçekçi dükkanlarını yönetmelerini sağlayan
 Çiçek Yetiştirme: Farklı tohumlar ekerek çeşitli çiçek türlerini büyütebilirsiniz. Her çiçeğin kendine özgü bakım gereksinimleri vardır.
 Müşteri Etkileşimi: Çeşitli müşteri profilleriyle ilgilenin, siparişlerini alın ve memnuniyetlerini sağlayın. Memnun müşteriler daha fazla ün ve kazanç getirir!
 Ekonomi Simülasyonu: Çiçek fiyatlarını belirleyin, envanterinizi akıllıca yönetin ve kârınızı artırmak için stratejiler geliştirin.
+
 🚀 Nasıl Başlanır?
 Bu projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları takip edin:
 
